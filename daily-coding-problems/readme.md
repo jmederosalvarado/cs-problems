@@ -4,7 +4,7 @@ Solutions (both code and explanations) to problems from [daily-coding-problem we
 
 ## Problems
 
-### [2 Sum](./problems/2-sum/readme.md)
+### [Problem 001](./problems/001.py)
 
    This problem was recently asked by __*Google*__.
 
